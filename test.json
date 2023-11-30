@@ -1,0 +1,89 @@
+{
+    "body": "e30=",
+    "headers": {
+        "174f6b43b52491325cf133b7fd8cd4a8": "tag",
+        "accept": "*/*",
+        "accept-encoding": "deflate, gzip",
+        "connection": "keep-alive",
+        "content-length": "2",
+        "content-type": "application/octet-stream",
+        "host": "yssd-4g1i324sed69c25d-1257039181.ap-shanghai.app.tcloudbase.com",
+        "user-agent": "UnityPlayer/2021.3.14f1c1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
+        "x-client-proto": "https",
+        "x-client-proto-ver": "HTTP/1.1",
+        "x-forwarded-for": "45.132.74.12, 116.177.242.187",
+        "x-forwarded-proto": "https",
+        "x-nws-log-uuid": "4583188365628535849",
+        "x-origin-host": "yssd-4g1i324sed69c25d-1257039181.ap-shanghai.app.tcloudbase.com",
+        "x-real-ip": "116.177.242.187",
+        "x-stgw-time": "1701359349.405",
+        "x-tencent-ua": "Qcloud",
+        "x-unity-version": "2021.3.14f1c1"
+    },
+    "httpMethod": "POST",
+    "isBase64Encoded": true,
+    "multiValueHeaders": {
+        "174f6b43b52491325cf133b7fd8cd4a8": [
+            "tag"
+        ],
+        "accept": [
+            "*/*"
+        ],
+        "accept-encoding": [
+            "deflate, gzip"
+        ],
+        "connection": [
+            "keep-alive"
+        ],
+        "content-length": [
+            "2"
+        ],
+        "content-type": [
+            "application/octet-stream"
+        ],
+        "host": [
+            "yssd-4g1i324sed69c25d-1257039181.ap-shanghai.app.tcloudbase.com"
+        ],
+        "user-agent": [
+            "UnityPlayer/2021.3.14f1c1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)"
+        ],
+        "x-client-proto": [
+            "https"
+        ],
+        "x-client-proto-ver": [
+            "HTTP/1.1"
+        ],
+        "x-forwarded-for": [
+            "45.132.74.12, 116.177.242.187"
+        ],
+        "x-forwarded-proto": [
+            "https"
+        ],
+        "x-nws-log-uuid": [
+            "4583188365628535849"
+        ],
+        "x-origin-host": [
+            "yssd-4g1i324sed69c25d-1257039181.ap-shanghai.app.tcloudbase.com"
+        ],
+        "x-real-ip": [
+            "116.177.242.187"
+        ],
+        "x-stgw-time": [
+            "1701359349.405"
+        ],
+        "x-tencent-ua": [
+            "Qcloud"
+        ],
+        "x-unity-version": [
+            "2021.3.14f1c1"
+        ]
+    },
+    "path": "/",
+    "queryStringParameters": {},
+    "requestContext": {
+        "appId": "1257039181",
+        "envId": "yssd-4g1i324sed69c25d",
+        "requestId": "6d759428bab7b374ad56c7a3514f948a",
+        "uin": "100006344453"
+    }
+}

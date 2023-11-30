@@ -1,0 +1,17 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "部署云函数1",
+            "type": "shell",
+            "command": "tcb fn deploy node-app"
+        },
+        {
+            "label": "部署云函数2",
+            "type": "shell",
+            "command": "tcb fn deploy post-test"
+        },
+    ]
+}
